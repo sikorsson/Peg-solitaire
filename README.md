@@ -1,0 +1,1 @@
+Game made as an exercise for my Java course.
